@@ -1,0 +1,91 @@
+{
+  "thisYear": {
+    "label": "2019",
+    "dataList": [410253.7, 342483.57, 32161.24],
+    "data": [410253.7, 342483.57, 32161.24],
+    "axisMax": 1500000.0,
+    "axisUnits": 0.0
+  },
+  "compareYear": {
+    "label": "2018",
+    "dataList": [
+      321466.98999999865,
+      383230.98999999615,
+      286088.46999999933,
+      287503.43,
+      273590.07,
+      302409.33,
+      435867.74,
+      1125087.3399999996,
+      898358.78999999992,
+      1113023.12,
+      513035.57,
+      540837.07000000007
+    ],
+    "data": [
+      321466.98999999865,
+      383230.98999999615,
+      286088.46999999933,
+      287503.43,
+      273590.07,
+      302409.33,
+      435867.74,
+      1125087.3399999996,
+      898358.78999999992,
+      1113023.12,
+      513035.57,
+      540837.07000000007
+    ],
+    "axisMax": 0.0,
+    "axisUnits": 0.0
+  },
+  "budget": null,
+  "projectedBudget": null,
+  "costPerLine": {
+    "label": "cost per line",
+    "dataList": [136751.23333333334, 114161.19, 10720.413333333334],
+    "data": [136751.23333333334, 114161.19, 10720.413333333334],
+    "axisMax": 250000.0,
+    "axisUnits": 50000.0
+  },
+  "metricsList": [
+    {
+      "title": "Monthly",
+      "value": 261632.83666666667,
+      "label": "$262k",
+      "subTitle": "Average"
+    },
+    {
+      "title": "March",
+      "value": 10720.413333333334,
+      "label": "$10,720",
+      "subTitle": "Average Cost Per Site"
+    },
+    {
+      "title": "Biggest Cost",
+      "value": 32161.24,
+      "label": "$32,161",
+      "subTitle": "Unclassified"
+    }
+  ],
+  "metrics": [
+    {
+      "title": "Monthly",
+      "value": 261632.83666666667,
+      "label": "$262k",
+      "subTitle": "Average"
+    },
+    {
+      "title": "March",
+      "value": 10720.413333333334,
+      "label": "$10,720",
+      "subTitle": "Average Cost Per Site"
+    },
+    {
+      "title": "Biggest Cost",
+      "value": 32161.24,
+      "label": "$32,161",
+      "subTitle": "Unclassified"
+    }
+  ]
+}
